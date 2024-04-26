@@ -12,5 +12,7 @@ Daily Workflow
 3. To view modifications to files: `git diff`
 4. To add specific file to git: `git add <filename>`
 5. To add all files to git: `git add .`
-6. To create a commit: `git commit`
-7. To push files to remote repostiroty: `git push`
+6. To record changes to the files: `git commit`
+7. To upload files from local repository to remote repository: `git push`
+8. TO download files from remote repository to local repository: `git pull`
+9. To list the commits: `git log`
